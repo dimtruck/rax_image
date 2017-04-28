@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: Dimitry Ushakov
+  description: Module to create and delete Rackspace image snapshots.
+  company: Rackspace
+  license: MIT
+  min_ansible_version: 2.0.0.2
+  categories:
+  - cloud:rax
+dependencies:
+  rax
