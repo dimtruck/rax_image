@@ -8,4 +8,4 @@ galaxy_info:
   categories:
   - cloud:rax
 dependencies:
-  rax
+  - rax
