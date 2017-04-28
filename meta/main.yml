@@ -5,5 +5,12 @@ galaxy_info:
   company: Rackspace
   license: MIT
   min_ansible_version: 2.0.0.2
+  platforms:
+    - name: Debian
+      versions:
+      - all
+    - name: Ubuntu
+      versions:
+      - all
   categories:
   - cloud:rax
